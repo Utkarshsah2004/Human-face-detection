@@ -1,4 +1,4 @@
-# Read a Video Stream from Camera (Frame by Frame)
+# Face detection
 
 This project demonstrates how to read a video stream from a camera, process each frame to detect faces using Haar cascades, and display the processed frames in real-time using OpenCV.
 
