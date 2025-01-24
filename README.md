@@ -6,7 +6,7 @@ This project demonstrates how to read a video stream from a camera, process each
 
 To run this script, ensure you have the following installed:
 
-1. Python 3.x
+1. Python
 2. OpenCV library (cv2)
 
 You can install OpenCV using pip:
